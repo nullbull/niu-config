@@ -8,7 +8,7 @@ server:
     max-threads: 500 # Maximum amount of worker threads.
     min-spare-threads: 50 # Minimum amount of worker threads
 niu: 
-  test: zwt
+  test: cow
 spring:
   redis:
     remote: false        #cachecloud 获取
